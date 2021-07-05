@@ -166,6 +166,6 @@ UPDATE 1
 
 1.  Research how to delete multiple entries from your table in a single command.
 
-DELETE FROM `table` WHERE id >=163 and id<= 265
+DELETE FROM `movies` WHERE title = ' ' or title = ' '
 
 We could use something like the above.
