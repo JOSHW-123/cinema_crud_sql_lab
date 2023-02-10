@@ -1,3 +1,5 @@
+CRUD SQL LAB
+
 This repository contains the solution for a 
 coding bootcamp lab exercise which focuses on 
 demonstrating the use of CRUD 
